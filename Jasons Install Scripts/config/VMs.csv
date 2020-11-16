@@ -1,0 +1,4 @@
+﻿Name,RAM,Cores,OSDiskSize,DataDiskLetter,DataDiskSize,Roles
+XYZ-DC01,8,4,200,,,AD
+XYZ-DC02,8,4,200,,,AD
+XYZ-FP01,16,4,200,E,1000,Print;File
